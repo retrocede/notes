@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "151c5f905942afa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dce3256e89670d21",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Greenfield Elixir.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e126cc9fe45c0d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9000668425a110aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ba9e909924643d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f17f41071a428d14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2efab70313da294",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e5c95286e8ce184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5e1282496800144",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Greenfield Elixir.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
